@@ -1,0 +1,472 @@
+|MAIN
+|aimkey-> 1
+|aimmode-> 2
+|aimassistkey-> 1
+|aimassistmode-> 0
+|triggerkey-> 16
+|triggermode-> 0
+|espenabled-> 1
+|visiblecheck-> 1
+
+|WEAPONS
+|weapon_name
+ 
+ |triggerbot->delay-> 30
+ |triggerbot->time-> 30
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 6
+   |aimbot->fov-> 360
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|ak47
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 6
+  |aimassist->smooth-> 23
+  |aimassist->rcs-> 1
+   
+   |aimbot->bone-> 7
+   |aimbot->fov-> 10
+   |aimbot->smooth-> 20
+   |aimbot->rcs-> 1
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0
+
+|weapon_name
+ 
+ |triggerbot->delay-> 0
+ |triggerbot->time-> 0
+  
+  |aimassist->bone-> 0
+  |aimassist->smooth-> 0
+  |aimassist->rcs-> 0
+   
+   |aimbot->bone-> 0
+   |aimbot->fov-> 0
+   |aimbot->smooth-> 0
+   |aimbot->rcs-> 0

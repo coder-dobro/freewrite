@@ -1,0 +1,17 @@
+﻿Сборка начата 10.01.2016 3:58:16.
+     1>Проект "c:\Users\vortexxx\documents\visual studio 2015\Projects\freewrite\freewrite\freewrite.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\vortexxx\documents\visual studio 2015\projects\freewrite\freewrite\ofs.h(25): warning C4305: инициализация: усечение из "double" к "float"
+     1>c:\users\vortexxx\documents\visual studio 2015\projects\freewrite\freewrite\main.cpp(396): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>c:\users\vortexxx\documents\visual studio 2015\projects\freewrite\freewrite\main.cpp(475): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\vortexxx\documents\visual studio 2015\projects\freewrite\freewrite\main.cpp(496): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\vortexxx\documents\visual studio 2015\Projects\freewrite\Debug\freewrite.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\vortexxx\documents\visual studio 2015\Projects\freewrite\Debug\freewrite.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\vortexxx\documents\visual studio 2015\Projects\freewrite\Debug\freewrite.lib" /MACHINE:X86 Debug\main.obj
+         freewrite.vcxproj -> c:\users\vortexxx\documents\visual studio 2015\Projects\freewrite\Debug\freewrite.exe
+     1>Сборка проекта "c:\Users\vortexxx\documents\visual studio 2015\Projects\freewrite\freewrite\freewrite.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:05.37
