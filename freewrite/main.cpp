@@ -485,13 +485,7 @@ void aimbot() {
 
 void WELLCOME() {
 	system("title HACK");
-	cout << "                          LEGIT & PRIVATE CHEAT FOR CS:GO" << endl;
-	cout << "                                                     HACK" << endl << endl;
-	cout << "                      [+] aimbot" << endl;
-	cout << "                      [+] aimassist" << endl;
-	cout << "                      [+] triggerbot" << endl;
-	cout << "                      [+] esp" << endl;
-	cout << endl << endl << "                                         created by getox";
+	cout << "                          SHIT-HACK FOR CSGO" << endl;
 	return;
 }
 
